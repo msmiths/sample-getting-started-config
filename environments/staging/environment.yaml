@@ -8,7 +8,6 @@ app:
   # is not deployed.
   version: "27fa87d8-5887-4c08-bfd8-91c45f772a43"
 
-
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
   #maven:
